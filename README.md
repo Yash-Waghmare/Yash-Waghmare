@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yash-waghmare-7b8b51201/">
+  <a href="https://www.linkedin.com/in/yash-waghmare-7b8b51201/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/yash_7714?igshid=ZDc4ODBmNjlmNQ==">
+  <a href="https://instagram.com/yash_7714?igshid=ZDc4ODBmNjlmNQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/Yash_7714?t=HSEiKJ7qQPCBRnpEfMpEgA&s=35">
+  <a href="https://twitter.com/Yash_7714?t=HSEiKJ7qQPCBRnpEfMpEgA&s=35" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
