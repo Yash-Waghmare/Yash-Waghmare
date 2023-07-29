@@ -22,8 +22,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+### About me
+Hello! I'm  a passionate and curious final-year student pursuing a Bachelor's in Technology in Computer Engineering. I genuinely love learning, constantly seeking new knowledge and challenges to broaden my horizons.
 
-### About Me :
+- 🚀 Former full-stack developer intern at <b>@Leazkart</b> Pvt Ltd, gaining practical industry experience.
+- 📖 Avid book reader.
+- 🌱 I'm currently learning Blockchain technology to explore its potential and applications.
+- 🤝 Feel free to reach me at yashwaghmare9007@gmail.com
 
 ---
 
@@ -34,6 +39,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Firebase" alt="Firebase" width="40"0 
+height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Firebase" alt="Firebase" width="40"0 
+height="40"/>&nbsp;
  </div>
 
 ---
