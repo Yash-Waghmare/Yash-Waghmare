@@ -23,12 +23,14 @@
 </h1>
 
 ### About me
-Hello! I'm  a passionate and curious final-year student pursuing a Bachelor's in Technology in Computer Engineering. I genuinely love learning, constantly seeking new knowledge and challenges to broaden my horizons.
+Hello! I'm a passionate and curious learner, always eager to explore new technologies and challenges. I hold a <b>B.Tech in Computer Engineering</b> from <b>PCCoE</b> and thrive on continuous learning and innovation.
 
-- 🚀 Former full-stack developer intern at <b>@Leazkart</b> Pvt Ltd, gaining practical industry experience.
+- 💻 Associate Application Developer at <b>Accenture</b>.
+- 🚀 Former Full-Stack Developer intern at <b>Leazkart</b>, gaining practical industry experience.
 - 📖 Avid book reader.
-- 🌱 I'm currently learning Blockchain technology to explore its potential and applications.
-- 🤝 Feel free to reach me at yashwaghmare9007@gmail.com
+- 🌱 Currently exploring Java and the Spring Boot Framework to build scalable applications.
+- 🤝 Always open to collaborations and tech discussions!
+- 📧 Reach me at yashwaghmare9007@gmail.com
 
 ---
 
@@ -37,12 +39,14 @@ Hello! I'm  a passionate and curious final-year student pursuing a Bachelor's in
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Firebase" alt="Firebase" width="40"0 
-height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Firebase" alt="Firebase" width="40"0 
-height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40"0 height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Firebase" alt="Firebase" width="40"0 height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40"0 height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git="40"0 height="40"/>&nbsp;
  </div>
 
 ---
